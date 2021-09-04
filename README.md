@@ -1,1 +1,1 @@
-This is a food recipe website designed with tailwind css
+This is a simple food recipe website project designed with tailwind css
